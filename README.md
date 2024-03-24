@@ -12,3 +12,5 @@ git push -u origin main
 git remote add origin https://github.com/imes03/PrimerGit.git
 git branch -M main
 git push -u origin main
+
+git log      // para ver versiones
